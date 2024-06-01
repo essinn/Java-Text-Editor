@@ -46,6 +46,3 @@ This text editor is proprietary software. All rights reserved.
 - [Java](https://www.oracle.com/java/)
 - [Swing](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/index.html)
 
----
-
-Thank you for using this Java Swing text editor! For any inquiries or support, please contact us at support@simpletexteditor.com.
